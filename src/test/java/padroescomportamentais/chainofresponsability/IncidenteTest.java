@@ -27,7 +27,7 @@ class IncidenteTest {
 
     @Test
     void deveRetornarDiretorParaAssinaturaCertificado() {
-        assertEquals("N3", N1.tratarErro(new Incidente(TipoIncidenteDesenvolvimentoCódigo.getTipoIncidenteDesenvolvimentoCódigo())));
+        assertEquals("N3", N1.tratarErro(new Incidente(TipoIncidenteDesenvolvimentoCodigo.getTipoIncidenteDesenvolvimentoCodigo())));
     }
 
     @Test

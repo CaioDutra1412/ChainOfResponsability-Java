@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="padroesprojeto" />
         <module name="padroes-projeto-master" />
+        <module name="ChainOfResponsability" />
       </profile>
     </annotationProcessing>
   </component>
